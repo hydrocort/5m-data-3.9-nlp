@@ -4,7 +4,7 @@
 
 ### Preparation
 
-We will be using the `dl` environment for this lesson.
+We will be using the `dl_py312` environment for this lesson.
 
 ### Lesson Overview
 
@@ -14,7 +14,7 @@ In this lesson, we will be learning about Natural Language Processing (NLP), its
 
 We will be using the `notebooks/nlp_lesson.ipynb` notebook throughout this lesson.
 
-> 1. Activate the environement `conda activate dl`.
+> 1. Activate the environement `conda activate dl_py312`.
 > 2. Run `jupyter notebook`.
 > 3. In the notebook, open `notebooks/nlp_lesson.ipynb`.
 > 4. Follow on with the lesson in the notebook.
